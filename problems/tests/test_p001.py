@@ -1,4 +1,4 @@
-from problem_1.p001 import multiple_of_dividers
+from problems.p001 import multiple_of_dividers
 
 
 def test_p001():

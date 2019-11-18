@@ -1,4 +1,4 @@
-from problem_2.p002 import sum_even_fibonacci_numbers
+from problems.p002 import sum_even_fibonacci_numbers
 
 
 def test_p002():
